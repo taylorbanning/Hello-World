@@ -5,21 +5,19 @@ Let's see what happens.
 
 ## Table of Contents
 
--[PROJECT TITLE](#Project-Title)
+-[PROJECT TITLE](#Analyzing-Fashion-Trends)
 -[DESCRIPTION](#Description)
 -[TOOLS USED](#Tools-Used)
 -[FILES USED](#Files-Used)
--[HOW TO RUN PROGRAM](#How-To-Run-Program)
--[ADDITIONAL INFORMATION](#Additional-Information)
 
 ## Project Title
 *My First Project - Analyzing Trends in Fashion*
 
 ## Description
-Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project. This should explain in detail what you did in this project, what you accomplished, outcomes, results, and so on. Make this a couple of paragraphs. 
+My first project involved me analyzing a variety of fashion trends that have occurred in recent years. I conducted research online, scanning articles from up to 10 years ago, because I wanted to see how our fashion trends have evolved and developed over time.  
 
 ## Tools Used
-Discussed all programming languages and tools used in this project. This could include Python, SQL, Excel, Power BI, Websites and more. 
+I used online Websites to conduct and execute this project on Analyzing Fashion Trends.  
 
 ## Files Used
 -Did you use any datafiles?
