@@ -20,5 +20,5 @@ My first project involved me analyzing a variety of fashion trends that have occ
 I used online Websites to conduct and execute this project on Analyzing Fashion Trends.  
 
 ## Files Used
--Did you use any datafiles?
--List Filenames 
+-outfit1.jpg
+-outfit2.jpg
