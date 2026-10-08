@@ -13,7 +13,7 @@ Let's see what happens.
 -[ADDITIONAL INFORMATION](#Additional-Information)
 
 ## Project Title
-*Hello World Sample - My First Repository*
+*My First Project - Analyzing Trends in Fashion*
 
 ## Description
 Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project. This should explain in detail what you did in this project, what you accomplished, outcomes, results, and so on. Make this a couple of paragraphs. 
